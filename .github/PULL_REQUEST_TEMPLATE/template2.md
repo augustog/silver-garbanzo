@@ -1,1 +1,1 @@
-[ ] Make sure you floss
+- [ ] Make sure you floss
